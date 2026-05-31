@@ -2,7 +2,9 @@
 
 Building engineering systems that scale beyond individuals.
 
-I focus on transforming engineering knowledge into repeatable systems, frameworks, and practices.
+I’ve spent most of my career building systems that help engineering teams scale.
+
+Whether it's documentation, code reviews, release processes, or developer workflows, I’m interested in turning good practices into repeatable systems.
 
 ## Areas of Interest
 
@@ -13,9 +15,9 @@ I focus on transforming engineering knowledge into repeatable systems, framework
 - Developer Productivity
 - Knowledge Sharing
 
-## Current Work
+## Current Systems
 
-- Code Review Manifesto: The 5 Principles Framework
+- Code Review Manifesto
 - Microservices Chassis Framework
 - Microservice Documentation Framework
 - Developer Productivity Framework
