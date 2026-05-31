@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ahmed Abdulmoniem
 
-<!--
-**a-abdulmoniem/a-abdulmoniem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building engineering systems that scale beyond individuals.
 
-Here are some ideas to get you started:
+I focus on transforming engineering knowledge into repeatable systems, frameworks, and practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+- Engineering Systems
+- Software Architecture
+- Documentation Frameworks
+- Code Review Practices
+- Developer Productivity
+- Knowledge Sharing
+
+## Current Work
+
+- Code Review Manifesto
+- Microservice Documentation Framework
+- Engineering Systems Playbook
+
+## Philosophy
+
+Good engineering teams should not depend on tribal knowledge.
+
+The best systems make good practices repeatable, scalable, and sustainable.
