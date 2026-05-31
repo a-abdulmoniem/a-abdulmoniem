@@ -15,9 +15,10 @@ I focus on transforming engineering knowledge into repeatable systems, framework
 
 ## Current Work
 
-- Code Review Manifesto
+- Code Review Manifesto: The 5 Principles Framework
+- Microservices Chassis Framework
 - Microservice Documentation Framework
-- Engineering Systems Playbook
+- Developer Productivity Framework
 
 ## Philosophy
 
